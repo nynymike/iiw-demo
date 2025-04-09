@@ -4,7 +4,13 @@
         "79fb5d6adeca0e440275ed25dab6bc5912108b2115c2": {
             "name": "iiwDemoPolicyStore",
             "description": "",
-            "policies": {},
+            "policies": {
+                "7a45bd0d964075abf896accdbbda73aa6d441e83e9e7": {
+                    "description": "allow_supreme_ruler",
+                    "creation_date": "2025-04-09T18:43:47.267085",
+                    "policy_content": "QGlkKCJhbGxvd19zdXByZW1lX3J1bGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiwKICByZXNvdXJjZQopCndoZW4gewogIHByaW5jaXBhbCBoYXMgcm9sZSAmJgogIHByaW5jaXBhbC5yb2xlLmNvbnRhaW5zKCJTdXByZW1lUnVsZXIiKQp9Ow=="
+                }
+            },
             "trusted_issuers": {
                 "1151d80a550bfc2e4f4ccf6e6d1946456cd4e0ccdac4": {
                     "name": "TestJans",
